@@ -54,6 +54,50 @@
           max-height: 100px;
         }
       }
+
+      .footer-content {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        text-align: center;
+      }
+
+      .footer-section {
+        margin: 0.5rem 0;
+      }
+
+      .legal-links {
+        font-size: 0.9em;
+      }
+
+      .legal-links a {
+        color: #606c71;
+        text-decoration: none;
+      }
+
+      .legal-links a:hover {
+        text-decoration: underline;
+      }
+
+      .contact-info {
+        font-size: 0.9em;
+        color: #606c71;
+      }
+
+      .contact-info a {
+        color: #606c71;
+        text-decoration: none;
+      }
+
+      .contact-info a:hover {
+        text-decoration: underline;
+      }
+
+      @media screen and (max-width: 42em) {
+        .footer-content {
+          gap: 0.5rem;
+        }
+      }
     </style>
   </head>
   <body>
@@ -82,9 +126,23 @@
       {{ content }}
 
       <footer class="site-footer">
-        {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> est <a href="https://www.robusta.build">codé par Robusta Build</a>.</span>
-        {% endif %}
+        <div class="footer-content">
+
+          <div class="footer-section legal-links">
+            <a href="{{ '/mentions-legales' | relative_url }}">Mentions légales</a> |
+            <a href="{{ '/politique-confidentialite' | relative_url }}">Politique de confidentialité</a>
+          </div>
+          <div class="footer-section contact-info">
+            CGT Agglo Muretaine - 7 Rue Castelvielh, 31600 Muret<br>
+            <a href="tel:0777990784">07 77 99 07 84</a> | 
+            <a href="mailto:syndicatcam.cgt@gmail.com">syndicatcam.cgt@gmail.com</a>
+          </div>
+          <div class="footer-section">
+            <span class="site-footer-owner">
+              <a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> est <a href="https://www.robusta.build">codé par Robusta Build</a>.
+            </span>
+          </div>
+        </div>
       </footer>
     </main>
   </body>
