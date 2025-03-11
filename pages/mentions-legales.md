@@ -7,7 +7,7 @@ title: Mentions légales
 
 ## Éditeur du site
 
-**Syndicat CGT de l'Agglo Muretaine**  
+**Syndicat CGT du Muretain Agglo**  
 Section locale CGT  
 7 Rue Castelvielh  
 31600 Muret, France
