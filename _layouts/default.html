@@ -14,20 +14,23 @@
     <style>
       .page-header {
         position: relative;
+        padding-top: 1rem;
       }
       .header-content {
         position: relative;
         display: flex;
-        align-items: center;
+        align-items: flex-start;
         justify-content: center;
+        min-height: 150px;
       }
       .header-logo-container {
         position: absolute;
         left: 2rem;
+        top: 0;
         opacity: 0.4;
       }
       .header-logo {
-        max-height: 300px;
+        max-height: 150px;
         width: auto;
       }
       .header-text {
@@ -39,14 +42,16 @@
         .header-content {
           flex-direction: column;
           padding: 1rem;
+          min-height: auto;
         }
         .header-logo-container {
           position: relative;
           left: 0;
+          top: 0;
           margin-bottom: 1rem;
         }
         .header-logo {
-          max-height: 200px;
+          max-height: 100px;
         }
       }
     </style>
