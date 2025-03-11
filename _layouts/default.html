@@ -153,10 +153,7 @@
         {% unless page.url == "/" %}
           <a href="{{ '/' | relative_url }}" class="btn">Accueil</a>
         {% endunless %}
-        {% if site.github.is_project_page %}
-          <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-        {% endif %}
-       
+     
           
         <a href="{{ '/pages/contacts' | relative_url }}" class="btn">Contacts</a>
         <a href="{{ '/pages/syndicalisation' | relative_url }}" class="btn">Syndicalisation</a>
