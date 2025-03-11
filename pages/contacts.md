@@ -2,9 +2,10 @@
 
 ## CGT Muretain Agglo 
 
-7 Rue Castelvielh - 31600 MURET <br/>
-Tel : 07.77.99.07.84
-Courriel : syndicatcam.cgt@gmail.com
+7 Rue Castelvielh - 31600 MURET 
+- Tel : 07.77.99.07.84
+- Courriel : syndicatcam.cgt@gmail.com
+  
 Permanence tous les mardis sur rendez-vous
 
 ## Section Mairie de Muret
@@ -13,6 +14,7 @@ Permanence tous les mardis sur rendez-vous
 - Courriel : syndic.cgt.muret@mairie-muret.fr
 
 ## Section Mairie de Seysses
-Tel : 07.64.36.86.38
-Courriel : cgtseysses@gmail.com
+
+- Tel : 07.64.36.86.38
+- Courriel : cgtseysses@gmail.com
 
