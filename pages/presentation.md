@@ -1,10 +1,10 @@
 
 
-# Bienvenue à la CGT de l'Agglo Muretaine
+# Bienvenue à la CGT du Muretain Agglo et ses sections syndicales
 
-## Qu'est ce que le syndicalisme CGT ?
+## Qui sommes-nous ?
 
-C'est une irremplaçable école de fraternité, de chaleur humaine et de courage.
+CGT 
 
 ## Nous contacter
 
