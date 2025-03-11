@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "fr-FR" }}">
   <head>
     <meta charset="UTF-8">
 
@@ -179,11 +179,13 @@
           </div>
           <div class="footer-section">
             <span class="site-footer-owner">
-              <a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> est <a href="https://www.robusta.build">codé par Robusta Build</a>.
+              <a href="{{ site.repository_url | default: site.github.repository_url }}">{{ site.repository_name | default: site.github.repository_name }}</a> est <a href="https://www.robusta.build">codé par Robusta Build</a>.
             </span>
           </div>
         </div>
       </footer>
+
+      <pre>{{ site | jsonify }}</pre>
     </main>
   </body>
 </html>

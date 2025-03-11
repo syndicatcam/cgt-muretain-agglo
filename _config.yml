@@ -1,8 +1,13 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
+title: CGT Agglo Muretaine
+description: Syndicat CGT de l'Agglo Muretaine
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# Custom site variables
+repository_url: https://github.com/cgt-muret/cgt-muret.github.io
+repository_name: CGT Muret
+lang: fr-FR
