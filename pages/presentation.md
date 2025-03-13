@@ -1,21 +1,21 @@
 
 
-# Bienvenue à la CGT du Muretain Agglo et ses sections syndicales
+# Bienvenue à la CGT du Muretain Agglo et ses sections syndicales 
 
 ## Qui sommes-nous ?
 
-Le syndicalisme fait partie du patrimoine vivant de l'humanité et de la démocratie. Fait social devenu universel, il a d'abord émergé en Europe avec la révolution industrielle, et y est resté profondément enraciné.
+Le syndicalisme fait partie du patrimoine vivant de l'humanité et de la démocratie. Fait social devenu universel, il a d'abord émergé en Europe avec la révolution industrielle et y est resté profondément enraciné.
 
-L'histoire plus que séculaire de la CGT s'inscrit dans cet ensemble. Née de la volonté des salariés de s'organiser collectivement et durablement pour défendre leurs intérets face à l'oppression et à l'exploitation, pour conquérir des droits et les faire valoir, pour imaginer un monde plus juste et proposer des voies pour y parvenir, sont le coeur de son action syndicales. 
+L'histoire plus que séculaire de la CGT s'inscrit dans cet ensemble. Née de la volonté des salariés de s'organiser collectivement et durablement pour défendre leurs intérêts face à l'oppression et à l'exploitation, pour conquérir des droits et les faire valoir, pour imaginer un monde plus juste et proposer des voies pour y parvenir, sont le coeur de son action syndicales. 
 
-Batie selon deux dimensions professionnelles et géographiques, la CGT s'est forgée et constituée au fil de l'histoire qutour d'une conception de solidarité entre les salariés qui combine l'ancrage à l'entreprise et à son environnement territorial. 
+Bâtie selon deux dimensions professionnelles et géographiques, la CGT s'est forgée et constituée au fil de l'histoire qutour d'une conception de solidarité entre les salariés qui combine l'ancrage à l'entreprise et à son environnement territorial. 
 
 La CGT est présente sur tout le territoire et notamment celui de la Haute Garonne.
 
 
 ## Nous contacter
 
-**CGT muretain Agglo**  
+**CGT Muretain Agglo**  
 7 Rue Castelvielh  
 31600 Muret, France
 
