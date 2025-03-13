@@ -19,7 +19,7 @@ Permanence tous les mardis sur rendez-vous
 - Tel : 07.64.36.86.38
 - Courriel : cgtseysses@gmail.com
 
-## ULCGT MURET et ses environs 
+## UL CGT MURET et ses environs 
 
 21 Avenue des Pyrénées - 31603 MURET
 
