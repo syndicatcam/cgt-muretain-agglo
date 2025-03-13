@@ -1,5 +1,8 @@
 # Contacts
 
+Un problème, un renseignement, un conseil ? 
+
+
 ## CGT Muretain Agglo 
 
 7 Rue Castelvielh - 31600 MURET 
@@ -18,3 +21,14 @@ Permanence tous les mardis sur rendez-vous
 - Tel : 07.64.36.86.38
 - Courriel : cgtseysses@gmail.com
 
+## ULCGT MURET et ses environs 
+
+21 Avenue des Pyrénées - 31603 MURET
+
+- Tel : 05.61.51.29.00
+- Courriel : cgt.ul.muret@gmail.com
+
+  ## Section Bassin Auterivain 
+
+- Tel : 
+- Courriel : 
