@@ -4,13 +4,22 @@
 
 ## Qui sommes-nous ?
 
-Le syndicalisme fait partie du patrimoine vivant de l'humanité et de la démocratie. Fait social devenu universel, il a d'abord émergé en Europe avec la révolution industrielle et y est resté profondément enraciné.
+La CGT, syndicat indépendant de lutte, de masse et de classe, naît en 1895.
+« Le syndicalisme est né de la double volonté des salariés de défendre leurs intérêts immédiats et de
+parciper à la transformation de la société. Depuis sa création, il a joué un rôle déterminant dans la
+conquête de garanties sociales qui ont contribué à changer la condition humaine. » (Préambule des
+statuts).
+Au XXI siècle, la CGT s’engage aussi pour la protection de l’environnement et la lutte contre
+l’exploitation des ressources naturelles.
 
-L'histoire plus que séculaire de la CGT s'inscrit dans cet ensemble. Née de la volonté des salariés de s'organiser collectivement et durablement pour défendre leurs intérêts face à l'oppression et à l'exploitation, pour conquérir des droits et les faire valoir, pour imaginer un monde plus juste et proposer des voies pour y parvenir, sont le coeur de son action syndicales. 
+Les syndicats forment sa base. Ils sont affiliés à une Fédération nationale par champ professionnel et à
+une Union Départementale (interprofessionnelle) par département.
 
-Bâtie selon deux dimensions professionnelles et géographiques, la CGT s'est forgée et constituée au fil de l'histoire qutour d'une conception de solidarité entre les salariés qui combine l'ancrage à l'entreprise et à son environnement territorial. 
-
-La CGT est présente sur tout le territoire et notamment celui de la Haute Garonne.
+Notre syndicat est affilié à la Fédération des Services Publics via la Coordination Syndicale
+Départementale qui coordonne les syndicats CGT de la Fonction Publique Territoriale dans la Haute-Garonne.
+Le lien avec la Confédération est assuré par l’Union Locale de Muret (UL Muret) qui coordonne les
+syndicats CGT de son secteur géographique et l’Union Départementale CGT de la Haute-Garonne, (CGT
+UD 31) 
 
 
 ## Nous contacter
