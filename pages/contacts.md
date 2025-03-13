@@ -1,7 +1,5 @@
 # Contacts
 
-Un problème, un renseignement, un conseil ? 
-
 
 ## CGT Muretain Agglo 
 
