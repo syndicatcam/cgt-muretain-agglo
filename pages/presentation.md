@@ -10,7 +10,10 @@
 
 Nous sommes à votre écoute pour relayer vos voix, vos interrogations, vos revendications et vous assister individuellement et collectivement avec détermination. 
 Nous informons nos syndiqués des échanges organiss avec la Direction. 
-Nous nous battons pour 
+
+C'est pourquoi il est essentiel de s'exprimer et de s'impliquer pour que nos conditions de travail soient les meilleurs possibles. 
+Le syndicat, la CGT est un outil collectif qui permer une expression collective de nos aspirations pour les traduire en revendication collectives. 
+
 
 
 ## Nous contacter
