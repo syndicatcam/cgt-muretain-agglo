@@ -8,6 +8,9 @@
 
 ## Qui sommes-nous ?
 
+La CGT du Muretain Agglo et ses sections regroupe 
+
+
 Nous sommes à votre écoute pour relayer vos voix, vos interrogations, vos revendications et vous assister individuellement et collectivement avec détermination. 
 Nous informons nos syndiqués des échanges organisés avec la Direction. 
 
