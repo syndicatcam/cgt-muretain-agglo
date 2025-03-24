@@ -4,6 +4,12 @@
 
 ## La CGT, ses valeurs, son histoire 
 
+La Confédération Générale du Travail (CGT) est l'une des plus anciens syndicats français. Elle est fondée en 1895 à Limoges avec pour objectif de défendre les intérêts des travailleurs face aux employeurs et au pouvoir publique.
+
+
+Bâtie selon deux dimensions professionnelles et géographiques, la CGT s’est forgée et constituée au fil de l’histoire autour d’une conception de solidarité entre les salariés qui combine l’ancrage à l’entreprise et à son environnement territorial.
+
+La CGT est présente sur tout le territoire grâce à un maillage d'organisations réparties à différentes échelles territoriales : des structures régionales appelées Comités Régionaux, les Unions Départementales, et en proximité les Union Locales.
 
 
 ## Qui sommes-nous ?
