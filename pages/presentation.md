@@ -2,9 +2,15 @@
 
 # Bienvenue à la CGT du Muretain Agglo et ses sections syndicales 
 
+## La CGT, ses valeurs, son histoire 
+
+
+
 ## Qui sommes-nous ?
 
-
+Nous sommes à votre écoute pour relayer vos voix, vos interrogations, vos revendications et vous assister individuellement et collectivement avec détermination. 
+Nous informons nos syndiqués des échanges organiss avec la Direction. 
+Nous nous battons pour 
 
 
 ## Nous contacter
