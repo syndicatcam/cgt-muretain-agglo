@@ -14,6 +14,9 @@ N'hésitez pas à venir nous rencontrer pour toutes questions ou conseils.
 
 ### Formation syndicale
 
+Tout syndiqué peut bénéficier jusqu'à 12 jours de formation par an pour mieux comprendre ses droits et s'impliquer dans la vie syndicale. 
+
+
 La prochaine session de formation "S'impliquer à la CGT" aura lieu le 14 octobre à Muret.
 D'autres sessions seront prévues d'ici la fin de l'année. 
 Inscrivez-vous auprès de votre syndicat.
