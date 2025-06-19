@@ -1,5 +1,5 @@
 # Agenda Social
 
-## Journée du 1er Mai : Journée Internationale de lutte des travailleuses et travailleurs 
+## Préavis déposé du 25 juin au 6 juillet 2025 couvrant l'ensemble des agents du Muretain Agglo 
 
 
