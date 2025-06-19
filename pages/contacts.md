@@ -20,10 +20,9 @@ Permanence tous les mardis sur rendez-vous
 - Courriel : cgtseysses@gmail.com
 
 
- ## Section Bassin Auterivain 
+## Section Bassin Auterivain 
 
 - Courriel : sectioncgt.ccva@gmail.com
-
 
 
 
