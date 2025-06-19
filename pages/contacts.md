@@ -19,9 +19,12 @@ Permanence tous les mardis sur rendez-vous
 - Tel : 07.64.36.86.38
 - Courriel : cgtseysses@gmail.com
 
-  ## Section Bassin Auterivain 
+
+ ## Section Bassin Auterivain 
 
 - Courriel : sectioncgt.ccva@gmail.com
+
+
 
 
   ## UL CGT MURET et ses environs 
