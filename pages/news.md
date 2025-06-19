@@ -3,8 +3,7 @@
 ### 3ème Congrés CGT du Muretain Agglo - 26 Juin 2024
 
 Le 3ème Congrés CGT du Muretain Agglo se déroulera le jeudi 26 Juin 2025 à Brioude. 
-
-Au programme : 
+ 
 
 
 ### Permanences 
