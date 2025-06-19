@@ -19,13 +19,14 @@ Permanence tous les mardis sur rendez-vous
 - Tel : 07.64.36.86.38
 - Courriel : cgtseysses@gmail.com
 
-## UL CGT MURET et ses environs 
+  ## Section Bassin Auterivain 
+
+- Courriel : sectioncgt.ccva@gmail.com
+
+
+  ## UL CGT MURET et ses environs 
 
 21 Avenue des Pyrénées - 31603 MURET
 
 - Tel : 05.61.51.29.00
 - Courriel : cgt.ul.muret@gmail.com
-
-  ## Section Bassin Auterivain 
-
-- Courriel : sectioncgt.ccva@gmail.com
