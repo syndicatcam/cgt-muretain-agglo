@@ -4,17 +4,15 @@
 
 ## La CGT, ses valeurs, son histoire 
 
-La Confédération Générale du Travail (CGT) est l'une des plus anciens syndicats français. Elle est fondée en 1895 à Limoges avec pour objectif de défendre les intérêts des travailleurs face aux employeurs et au pouvoir publique.
+La Confédération Générale du Travail (CGT) est l'un des plus anciens syndicats français. Elle a été fondée en 1895 à Limoges, dans le but de défendre les droits et les intérêts des travailleurs face aux employeurs et aux pouvoirs publics.
 
 
-Bâtie selon deux dimensions professionnelles et géographiques, la CGT s’est forgée et constituée au fil de l’histoire autour d’une conception de solidarité entre les salariés qui combine l’ancrage à l’entreprise et à son environnement territorial.
+Organisée à la fois par secteurs professionnels et zones géographiques, la CGT s’est construite au fil de l’histoire autour d’une idée forte : la solidarité entre les salariés. Cette solidarité s'ancre à la fois dans l’entreprise et dans le territoire local.
 
-La CGT est présente sur tout le territoire grâce à un maillage d'organisations réparties à différentes échelles territoriales : des structures régionales appelées Comités Régionaux, les Unions Départementales, et en proximité les Union Locales.
+Aujourd'hui la CGT est présente sur l'ensemble du territoire grâce à un réseau d'organisations implantée à differents niveaux les Comités Régionaux, les Unions Départementales, et en proximité les Union Locales. 
 
 
 ## Qui sommes-nous ?
-
-La CGT du Muretain Agglo et ses sections regroupe 
 
 
 Nous sommes à votre écoute pour relayer vos voix, vos interrogations, vos revendications et vous assister individuellement et collectivement avec détermination. 
