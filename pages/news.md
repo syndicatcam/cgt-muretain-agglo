@@ -15,7 +15,7 @@ N'hésitez pas à venir nous rencontrer pour toute question ou conseil.
 
 ### Formation syndicale
 
-La prochaine session de formation "S'impliquer à la CGT" aura lieu du 20 Mai à Muret.
-D'autres sessions sont prévues le 1er Juillet et le 14 Octobre. 
+La prochaine session de formation "S'impliquer à la CGT" aura lieu du 14 octobre à Muret.
+D'autres sessions seront prévues d'ici la fin de l'année. 
 Inscrivez-vous auprès de votre syndicat.
 
