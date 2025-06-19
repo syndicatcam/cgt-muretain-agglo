@@ -13,7 +13,6 @@ Spécial ATSEM
 De 9h à 17h au local CGT 
 7, rue Castelveilh à Muret
 
-![]
 
 ### Formation syndicale
 
