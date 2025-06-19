@@ -28,5 +28,4 @@ Permanence tous les mardis sur rendez-vous
 
   ## Section Bassin Auterivain 
 
-- Tel : 
-- Courriel : 
+- Courriel : sectioncgt.ccva@gmail.com
