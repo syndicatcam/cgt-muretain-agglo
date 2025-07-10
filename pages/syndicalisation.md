@@ -1,3 +1,5 @@
+# Se syndiquer 
+
 Se syndiquer, c'est rejoindre une organisation pour défendre ses droits au travail. 
 
 Cela permet d'être mieux informé, soutenu et représenté. 
