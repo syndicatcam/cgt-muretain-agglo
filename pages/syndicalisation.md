@@ -8,4 +8,7 @@ L'adhésion implique une cotisation, mais celle-ci donne droit à un crédit d'i
 
 C'est un engagement solidaire et avantageux. 
 
+
+Merci de télécharger le bulletin d'adhésion et de nous le renvoyer par email 
+
 https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/bulletin.pdf
