@@ -1,7 +1,7 @@
 # Actualités 
 
 
-### Réunion d'Information Syndicale  - Mardi 14 Octobre 2025
+### Mardi 14 Octobre 2025 - Réunion d'Information Syndicale 
 
 Spécial ATSEM 
 
