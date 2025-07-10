@@ -1,5 +1,6 @@
 # Actualités 
 
+
 ### Réunion d'Information Syndicale  - Mardi 14 Octobre 2025
 
 Spécial ATSEM 
@@ -11,6 +12,7 @@ De 9h à 17h au local CGT
 
 
 
+
 ### Formation syndicale
 
 Tout syndiqué peut bénéficier jusqu'à 12 jours de formation par an pour mieux comprendre ses droits et s'impliquer dans la vie syndicale. 
@@ -18,10 +20,5 @@ Tout syndiqué peut bénéficier jusqu'à 12 jours de formation par an pour mieu
 Nous vous conseillons la formation "S'impliquer à la CGT" d'une durée d'une journée.
 La prochaine session aura lieu le 14 octobre à Muret.
 D'autres sessions seront prévues d'ici la fin de l'année. 
+
 Inscrivez-vous auprès de votre syndicat.
-
-
-
-# Agenda Social
-
-
