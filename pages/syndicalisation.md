@@ -5,3 +5,5 @@ Cela permet d'être mieux informé, soutenu et représenté.
 L'adhésion implique une cotisation, mais celle-ci donne droit à un crédit d'impôt de 66 % : par exemple, une cotisation de 100 euros ne coûte en réalité que 34 euros. 
 
 C'est un engagement solidaire et avantageux. 
+
+https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/bulletin.pdf
