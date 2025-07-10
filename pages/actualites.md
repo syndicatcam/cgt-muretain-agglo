@@ -7,6 +7,7 @@ Spécial ATSEM
 De 9h à 17h au local CGT 
 7, rue Castelveilh à Muret
 
+![description de l'image](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/tractoct2025.pdf)
 
 ### Formation syndicale
 
