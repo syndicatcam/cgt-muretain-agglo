@@ -8,6 +8,10 @@ Spécial ATSEM
 De 9h à 17h au local CGT 
 7, rue Castelveilh à Muret
 
+Chaque agent bénéficie d'une heure par mois d'information syndicale cumulable sur trois mois soit trois heures par trimestre.
+Il est nécessaire de faire la demande au moins trois jours à l’avance, en remplissant un formulaire soumis à validation par la hiérarchie
+
+
 [![Tract HMI](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/tractoct2025.pdf)](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/tractoct2025.pdf)
 
 
