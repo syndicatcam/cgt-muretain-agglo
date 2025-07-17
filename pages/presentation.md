@@ -11,6 +11,9 @@ Organisée à la fois par secteurs professionnels et zones géographiques, la CG
 Aujourd'hui la CGT est présente sur l'ensemble du territoire grâce à un réseau d'organisations implantée à differents niveaux les Comités Régionaux, les Unions Départementales, et en proximité les Union Locales. 
 
 
+[![image cgt lutte](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/cgtpresentation.gif)](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/cgtpresentation.gif)
+
+
 ## Qui sommes-nous ?
 
 
@@ -19,8 +22,6 @@ Nous informons nos syndiqués des échanges organisés avec la Direction.
 
 C'est pourquoi il est essentiel de s'exprimer et de s'impliquer pour que nos conditions de travail soient les meilleures possibles. 
 Le syndicat, la CGT est un outil collectif qui permet une expression commune de nos aspirations, afin de les traduire en revendications collectives. 
-
-[![image travail egalite](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/travailegalite2.jpg)](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/travailegalite2.jpg)
 
 
 ## Nous contacter
