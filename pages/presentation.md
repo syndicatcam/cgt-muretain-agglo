@@ -1,3 +1,5 @@
+[![image travail egalite](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/travailegalite.jpg)](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/travailegalite.jpg)
+
 
 
 # Bienvenue à la CGT du Muretain Agglo et ses sections syndicales 
