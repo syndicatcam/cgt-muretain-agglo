@@ -20,6 +20,7 @@ Nous informons nos syndiqués des échanges organisés avec la Direction.
 C'est pourquoi il est essentiel de s'exprimer et de s'impliquer pour que nos conditions de travail soient les meilleures possibles. 
 Le syndicat, la CGT est un outil collectif qui permet une expression commune de nos aspirations, afin de les traduire en revendications collectives. 
 
+[![image travail egalite](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/travailegalite2.jpg)](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/travailegalite2.jpg)
 
 
 ## Nous contacter
@@ -41,4 +42,3 @@ BP 80067
 **Téléphone :** 05 61 51 29 00 ou 06 14 90 86 73  
 **Email :** [cgt.ul.muret@gmail.com](mailto:cgt.ul.muret@gmail.com)
 
-[![image travail egalite](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/travailegalite2.jpg)](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/travailegalite2.jpg)
