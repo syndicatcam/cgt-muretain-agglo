@@ -36,4 +36,6 @@ Inscrivez-vous auprès de votre syndicat.
 
 # Luttes 
 
+Au Muretain comme ailleurs, la CGT est sur le terrain. Pour les salaires, la dignité au travail, les droits de toutes et tous : on s'organise, on agit, on ne lâche rien. 
+
 [![image salaire](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/urgencesalaire2.jpg)](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/urgencesalaire2.jpg)
