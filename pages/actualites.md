@@ -32,3 +32,8 @@ La prochaine session aura lieu le 14 octobre à Muret.
 D'autres sessions seront prévues d'ici la fin de l'année. 
 
 Inscrivez-vous auprès de votre syndicat.
+
+
+# Luttes 
+
+[![image salaire](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/salaire.jpg)](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/salaire.jpg)
