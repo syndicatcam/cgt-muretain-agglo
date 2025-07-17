@@ -1,6 +1,3 @@
-[![image travail egalite](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/travailegalite2.jpg)](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/travailegalite2.jpg)
-
-
 
 # Bienvenue à la CGT du Muretain Agglo et ses sections syndicales 
 
@@ -43,3 +40,5 @@ BP 80067
 
 **Téléphone :** 05 61 51 29 00 ou 06 14 90 86 73  
 **Email :** [cgt.ul.muret@gmail.com](mailto:cgt.ul.muret@gmail.com)
+
+[![image travail egalite](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/travailegalite2.jpg)](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/travailegalite2.jpg)
