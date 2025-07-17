@@ -1,4 +1,4 @@
-[![image travail egalite](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/travailegalite.jpg)](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/travailegalite.jpg)
+[![image travail egalite](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/travailegalite2.jpg)](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/travailegalite2.jpg)
 
 
 
