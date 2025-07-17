@@ -118,7 +118,8 @@
         display: inline-block;
       }
 
-      .header-nav .btn:hover {
+      .header-nav .btn:hover, 
+      .header-nav .btn.active {
         color: rgba(255, 255, 255, 1);
         text-decoration: none;
         background-color: rgba(255, 255, 255, 0.2);
@@ -150,14 +151,10 @@
         </div>
       </div>
       <div class="header-nav">
-        {% unless page.url == "/" %}
-          <a href="{{ '/' | relative_url }}" class="btn">Accueil</a>
-        {% endunless %}
-     
-          
-        <a href="{{ '/pages/contacts' | relative_url }}" class="btn">Contacts</a>
-        <a href="{{ '/pages/syndicalisation' | relative_url }}" class="btn">Se syndiquer</a>
-         <a href="{{ '/pages/actualites' | relative_url }}" class="btn">Actualités</a>
+        <a href="{{ '/' | relative_url }}" class="btn{% if page.url == '/' %} active{% endif %}">Accueil</a>
+        <a href="{{ '/pages/contacts' | relative_url }}" class="btn{% if page.url == '/pages/contacts' %} active{% endif %}">Contacts</a>
+        <a href="{{ '/pages/syndicalisation' | relative_url }}" class="btn{% if page.url == '/pages/syndicalisation' %} active{% endif %}">Se syndiquer</a>
+         <a href="{{ '/pages/actualites' | relative_url }}" class="btn{% if page.url == '/pages/actualites' %} active{% endif %}">Actualités</a>
       </div>
     </header>
 
