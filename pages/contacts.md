@@ -1,5 +1,6 @@
 # Contacts
 
+[![carte](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/logoterritoire.jpg)](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/logoterritoire.jpg)
 
 ## CGT Muretain Agglo 
 
