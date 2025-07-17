@@ -36,4 +36,4 @@ Inscrivez-vous auprès de votre syndicat.
 
 # Luttes 
 
-[![image salaire](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/salaire.jpg)](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/salaire.jpg)
+[![image salaire](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/urgencesalaire.jpg)](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/urgencesalaire.jpg)
