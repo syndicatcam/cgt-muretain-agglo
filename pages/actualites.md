@@ -1,5 +1,10 @@
 # Actualités 
 
+### Jeudi 4 Septembre 2025 - Réunion Commission Exécutive
+
+La Commission Exécutive (CE) se réunit tous les mois, de septembre à juin, pour mettre en œuvre les décisions de l’Assemblée
+Générale. Elle adapte l’action du syndicat aux circonstances et à l’actualité sociale.
+
 
 ### Mardi 14 Octobre 2025 - Réunion d'Information Syndicale 
 
