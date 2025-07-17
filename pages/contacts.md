@@ -1,8 +1,8 @@
 # Contacts
 
-[![carte](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/logoterritoire.jpg)](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/logoterritoire.jpg)
-
 ## CGT Muretain Agglo 
+
+[![carte](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/logoterritoire.jpg)](https://syndicatcam.github.io/cgt-muretain-agglo/assets/images/logoterritoire.jpg)
 
 7 Rue Castelvielh - 31600 MURET 
 - Tel : 07.77.99.07.84
